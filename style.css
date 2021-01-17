@@ -16,6 +16,21 @@ body {
     background: linear-gradient(#ff614d 0%, #f7a3f6 100%);
     color: #0800a6;
 }
+#scinvent {
+    background: linear-gradient(#ff614d 0%, #f7a3f6 100%);
+    color: #0800a6;
+}
+#scinspire {
+    background: linear-gradient(#ff614d 0%, #f7a3f6 100%);
+    color: #0800a6;
+}
+#scthank {
+    background: linear-gradient(#ff614d 0%, #f7a3f6 100%);
+    color: #0800a6;
+}
+#h2 {
+    color: aqua
+}
 
 h1 {
     font-size: 30px;
